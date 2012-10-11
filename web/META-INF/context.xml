@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/ComunicaCatalogo">
+<ResourceLink global="jdbc/cm" name="jdbc/cm" type="javax.sql.DataSource"/>
+</Context>
